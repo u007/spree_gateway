@@ -40,7 +40,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'sass-rails', '~> 4.0.2'
   s.add_development_dependency 'selenium-webdriver', '~> 2.44.0'
   s.add_development_dependency 'simplecov'
-  s.add_development_dependency 'sqlite3'
+  # s.add_development_dependency 'sqlite3'
 
   s.add_development_dependency 'addressable', '~> 2.3.6'
   s.add_development_dependency 'mime-types', '~> 2.4.3'
